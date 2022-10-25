@@ -25,13 +25,13 @@ const Home: NextPage = () => {
           </code>
         </p>
 
-        <div className="mt-6 flex max-w-4xl flex-wrap items-center justify-around sm:w-full">
+        <div className="mt-6  flex max-w-4xl flex-wrap items-center justify-around sm:w-full">
           <a
             href="https://nextjs.org/docs"
             className="mt-6 w-96 rounded-xl border p-6 text-left hover:text-blue-600 focus:text-blue-600"
           >
-            <h3 className="text-2xl font-bold">Documentation &rarr;</h3>
-            <p className="mt-4 text-xl">
+            <h3 className="text-2xl font-bold">This is not a documentation &rarr;</h3>
+            <p className="mt-4 bg-[#000] top-8 text-xl">
               Find in-depth information about Next.js features and its API.
             </p>
           </a>
