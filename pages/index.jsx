@@ -22,7 +22,7 @@ const Home = () => {
         <div className='text-white font-bold text-2xl'>
           <Image
       src={image}
-      alt="Picture of the author"
+      alt="Picture of the logo"
       width={100}
       height={90}
     />
